@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9073716d877e9d808141cc8cdbd95e32f5a9228ddae88b653890ffafc329d102
-size 962
+# Title
+
+基于虚拟现实技术的智能导航系统
+
+## Background
+当今，导航软件已经成为人们日常出行中必不可少的工具，然而在实践中我们发现，日常导航方式（手机导航、车载导航等）都存在着以下几个问题：  
+1.语音导航指路不够清晰明确；  
+2.显示屏和实际路况难以结合导致的潜在安全问题。  
+
+对于以上几个问题，基于虚拟现实技术，我们设计了智能可视化交互导航系统，希望能解决当前导航方式的不足。
+
+## Environment
+
+Unity 2020.1.12
+
+## Install steps
+git clone https://github.com/DaraChang/HCI-project.git
+
+## Contributing
+张语庭-组长，负责静态地图搭建、跟随箭头、路口箭头   
+罗雨诗-负责静态地图扩展、全路径高亮、光柱  
+丘雨涵-负责绝对箭头、动态交通布置、unity自带导航模块调用    
+陈睿嘉-负责静态地图扩展、小地图动态导航、空气墙  
+

@@ -1,24 +1,28 @@
 # Title
 
-基于虚拟现实技术的智能导航系统
+XR-Based Interactive Navigation System
 
 ## Background
-当今，导航软件已经成为人们日常出行中必不可少的工具，然而在实践中我们发现，日常导航方式（手机导航、车载导航等）都存在着以下几个问题：  
-1.语音导航指路不够清晰明确；  
-2.显示屏和实际路况难以结合导致的潜在安全问题。  
 
-对于以上几个问题，基于虚拟现实技术，我们设计了智能可视化交互导航系统，希望能解决当前导航方式的不足。
+Today, navigation system has become an indispensable tool in people's daily life. However, we have identified several issues with common navigation methods such as mobile navigation and in-car navigation:
+
+1. The guidance provided by voice navigation is not clear enough.
+2. Difficulties in integrating the mobile screen with the actual road conditions lead to safety concerns.
+
+To address these, leveraging extended reality (XR) technology, we have designed an intelligent interactive navigation system with the aim of overcoming the shortcomings of current navigation methods.
 
 ## Environment
 
 Unity 2020.1.12
 
-## Install steps
+## Install Steps
+
 git clone https://github.com/DaraChang/HCI-project.git
 
-## Contributing
-张语庭-组长，负责静态地图搭建、跟随箭头、路口箭头   
-罗雨诗-负责静态地图扩展、全路径高亮、光柱  
-丘雨涵-负责绝对箭头、动态交通布置、unity自带导航模块调用    
-陈睿嘉-负责静态地图扩展、小地图动态导航、空气墙  
+## Contribution
+
+张语庭 (Yu-Ting Chang)-team lead，responsible for building global map, developing user-following absolute arrows and fixed arrows at corners
+罗雨诗-responsible for developing highlighted route and light beam
+丘雨涵-responsible for developing dynamic traffic utilizing Unity's built-in navigation module    
+陈睿嘉-responsible for developing small map and boundry of global map  
 
